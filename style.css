@@ -1,0 +1,20 @@
+/* This styles the whole background and fonts of your page */
+body {
+  background-color: #ffe4e1;
+  color: #333333;
+  font-family: "Comic Sans MS", "Comic Sans", cursive; 
+  padding: 40px;
+  text-align: center;
+}
+
+/* This makes your main headings look bigger and colorful */
+h1 {
+  color: #2b6cb0;
+  font-size: 2.5rem;
+}
+
+/* This styles any regular paragraph text */
+p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
